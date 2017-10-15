@@ -1,4 +1,3 @@
 # Configuration data for Lab 3 of Microservices with Spring Cloud Udemy course
 ---
-lucky-word:
-  Serendipity
+lucky-word:Serendipity
